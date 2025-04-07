@@ -1,3 +1,11 @@
+# Expressions CNN
+
+Facial expression recognition using convolutional neural networks (CNNs).
+
+This repo is managed and maintained by [Kripalini](https://github.com/kripalinii).  
+Originally inspired by the work of [amineHorseman], modified and improved for personal use and future development.
+
+
 
 # Facial expression recognition using CNN in Tensorflow
 
